@@ -1,4 +1,4 @@
-# House-Sales-Prediction-In-45-Cities
+# House-Sales-Prediction
 Summary:
 In this project, Implemented linear regression with gradient descent to predict house prices. using a dataset containing various features like city, number of bedrooms and bathrooms, population, and median family income.
 
